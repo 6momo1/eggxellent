@@ -7,9 +7,9 @@ import Content from './components/Content';
 function App() {
   return (
     <div className='content-center'>
-      <Navbar></Navbar>
-    <Hero></Hero>
-    <Content/>
+      <Navbar />
+      <Hero />
+      <Content />
     </div>
   );
 }
